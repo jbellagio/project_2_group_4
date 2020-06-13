@@ -33,7 +33,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url(../img/2img.jpg) top center;
+    background: url(../Project\ 2\ Web/img/2img.jpg) top center;
     background-size: cover;
     position: relative;
   }
@@ -255,7 +255,7 @@ body {
 
   
   #about .about-container .content {
-    background: url(../img/about_img.jpg) top center;
+    background: url(../Project\ 2\ Web/img/about_img.jpg) top center;
     background-size: cover;
     position: relative;
     width: 100%;
@@ -347,3 +347,36 @@ body {
     margin-bottom: 100px;
   }
   
+/* Graphs Section
+--------------------------------*/
+#tableau .tableau-container{
+  background: url(img/graph_bg.jpg) top center;
+  margin-top: 0px;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+#tableau .tableau-container .title {
+  /* background: url(img/bg2.jpg) top center;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: 100vh; */
+  font-weight: 400;
+  margin-bottom: 2px;
+  font-size: 66px;
+  margin-top: 0px;
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+
+#tableau .tableau-container .text {
+ font-size: 35px;
+ text-align: center;
+ color:blue;
+ font-weight: 500;
+ margin-top: 100px;
+}
