@@ -350,7 +350,7 @@ body {
 /* Graphs Section
 --------------------------------*/
 #tableau .tableau-container{
-  background: url(img/graph_bg.jpg) top center;
+  /*background: url(img/graph_bg.jpg) top center;*/
   margin-top: 0px;
   background-size: cover;
   position: relative;
@@ -383,5 +383,5 @@ body {
 
 #particles-js{
   height:100%;
-  background:#F00;
+  background:#b3cccc;
 }
