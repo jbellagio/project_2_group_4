@@ -380,3 +380,8 @@ body {
  font-weight: 500;
  margin-top: 100px;
 }
+
+#particles-js{
+  height:100%;
+  background:#F00;
+}
