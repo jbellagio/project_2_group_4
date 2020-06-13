@@ -52,6 +52,7 @@ body {
     top: 0;
     left: 0;
     right: 0;
+    
   }
   
   #hero .hero-container {
@@ -193,8 +194,8 @@ body {
   
   .nav-menu a:hover:before, .nav-menu li:hover > a:before, .nav-menu .menu-active > a:before {
     visibility: visible;
-    -webkit-transform: scaleX(1);
-    transform: scaleX(1);
+
+
   }
   
   .nav-menu ul {
